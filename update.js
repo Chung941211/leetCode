@@ -18,7 +18,7 @@ I have solved **${num_solved} / ${num_total}** problems while **${num_locked}** 
 |:---:|:---:|:---:|:---:|:---:|
 `
   // sort by the problemId desc
-  problems.sort((a, b) => b.problemId - a.problemId);
+  problems.sort((a, b) => a.problemId - b.problemId);
 
   problems.forEach(item => {
     let {problemId, title, url, languageJS, sourceCodeJS, languagePY, sourceCodePY, languageCPP, sourceCodeCPP, explanation, difficulty, isSolved, isLocked} = item;
