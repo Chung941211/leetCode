@@ -1,5 +1,4 @@
 const superagent = require("superagent");
-const cheerio = require("cheerio");
 const fs = require("fs");
 const eventproxy = require('eventproxy');
 
@@ -7,17 +6,17 @@ const makeMarkdownFile = (data) => {
   let { problems, num_total, num_solved, num_locked } = data;
 
   let tpl =
-    `# Leetcode
+`# Leetcode
 
-    Update time: ${new Date}
+Update time: ${new Date}
 
-    I have solved **${num_solved} / ${num_total}** problems while **${num_locked}** problems are still locked.
+I have solved **${num_solved} / ${num_total}** problems while **${num_locked}** problems are still locked.
 
-    (Notes: :blue_book: means you need to buy a book from Leetcode)
+(Notes: :blue_book: means you need to buy a book from Leetcode)
 
-    | # | Title | Source Code | Explanation | Difficulty |
-    |:---:|:---:|:---:|:---:|:---:|
-    `
+| # | Title | Source Code | Explanation | Difficulty |
+|:---:|:---:|:---:|:---:|:---:|
+`
   // sort by the problemId desc
   problems.sort((a, b) => b.problemId - a.problemId);
 

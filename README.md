@@ -1,14 +1,14 @@
 # Leetcode
 
-    Update time: Thu May 21 2020 16:45:29 GMT+0800 (GMT+08:00)
+Update time: Thu May 21 2020 16:54:55 GMT+0800 (GMT+08:00)
 
-    I have solved **1 / 1346** problems while **213** problems are still locked.
+I have solved **1 / 1346** problems while **213** problems are still locked.
 
-    (Notes: :blue_book: means you need to buy a book from Leetcode)
+(Notes: :blue_book: means you need to buy a book from Leetcode)
 
-    | # | Title | Source Code | Explanation | Difficulty |
-    |:---:|:---:|:---:|:---:|:---:|
-    | 1000093 | [寻宝](https://leetcode.com/problems/xun-bao/) | | | Hard |
+| # | Title | Source Code | Explanation | Difficulty |
+|:---:|:---:|:---:|:---:|:---:|
+| 1000093 | [寻宝](https://leetcode.com/problems/xun-bao/) | | | Hard |
 | 1000090 | [最小跳跃次数](https://leetcode.com/problems/zui-xiao-tiao-yue-ci-shu/) | | | Hard |
 | 1000088 | [游乐园的迷宫](https://leetcode.com/problems/you-le-yuan-de-mi-gong/) | | | Hard |
 | 1000087 | [小张刷题计划](https://leetcode.com/problems/xiao-zhang-shua-ti-ji-hua/) | | | Medium |
