@@ -1,13 +1,29 @@
 # Leetcode
 
-Update time: Wed May 20 2020 17:29:11 GMT+0800 (GMT+08:00)
+    Update time: Thu May 21 2020 16:33:49 GMT+0800 (GMT+08:00)
 
-I have solved **0 / 1330** problems while **213** problems are still locked.
+    I have solved **1 / 1346** problems while **213** problems are still locked.
 
-(Notes: :blue_book: means you need to buy a book from Leetcode)
+    (Notes: :blue_book: means you need to buy a book from Leetcode)
 
-| # | Title | Source Code | Explanation | Difficulty |
-|:---:|:---:|:---:|:---:|:---:|
+    | # | Title | Source Code | Explanation | Difficulty |
+    |:---:|:---:|:---:|:---:|:---:|
+    | 1000093 | [寻宝](https://leetcode.com/problems/xun-bao/) | | | Hard |
+| 1000090 | [最小跳跃次数](https://leetcode.com/problems/zui-xiao-tiao-yue-ci-shu/) | | | Hard |
+| 1000088 | [游乐园的迷宫](https://leetcode.com/problems/you-le-yuan-de-mi-gong/) | | | Hard |
+| 1000087 | [小张刷题计划](https://leetcode.com/problems/xiao-zhang-shua-ti-ji-hua/) | | | Medium |
+| 1000086 | [期望个数统计](https://leetcode.com/problems/qi-wang-ge-shu-tong-ji/) | | | Easy |
+| 1000085 | [游乐园的游览计划](https://leetcode.com/problems/you-le-yuan-de-you-lan-ji-hua/) | | | Hard |
+| 1000063 | [传递信息](https://leetcode.com/problems/chuan-di-xin-xi/) | | | Easy |
+| 1000062 | [二叉树任务调度](https://leetcode.com/problems/er-cha-shu-ren-wu-diao-du/) | | | Hard |
+| 1000059 | [切分数组](https://leetcode.com/problems/qie-fen-shu-zu/) | | | Hard |
+| 1000057 | [剧情触发时间](https://leetcode.com/problems/ju-qing-hong-fa-shi-jian/) | | | Medium |
+| 1000056 | [拿硬币](https://leetcode.com/problems/na-ying-bi/) | | | Easy |
+| 100107 | [Guess Numbers](https://leetcode.com/problems/guess-numbers/) | | | Easy |
+| 100096 | [Programmable Robot](https://leetcode.com/problems/programmable-robot/) | | | Medium |
+| 100094 | [Coin Bonus](https://leetcode.com/problems/coin-bonus/) | | | Hard |
+| 100093 | [Broken Board Dominoes](https://leetcode.com/problems/broken-board-dominoes/) | | | Hard |
+| 100092 | [Deep Dark Fraction](https://leetcode.com/problems/deep-dark-fraction/) | | | Easy |
 | 1563 | [Maximum Number of Darts Inside of a Circular Dartboard](https://leetcode.com/problems/maximum-number-of-darts-inside-of-a-circular-dartboard/) | | | Hard |
 | 1562 | [People Whose List of Favorite Companies Is Not a Subset of Another List](https://leetcode.com/problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list/) | | | Medium |
 | 1561 | [Rearrange Words in a Sentence](https://leetcode.com/problems/rearrange-words-in-a-sentence/) | | | Medium |
@@ -35,7 +51,7 @@ I have solved **0 / 1330** problems while **213** problems are still locked.
 | 1530 | [Check If a String Can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string/) | | | Medium |
 | 1529 | [Max Difference You Can Get From Changing an Integer](https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/) | | | Medium |
 | 1528 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | | | Easy |
-| 1527 | [Number of Ways to Paint N × 3 Grid](https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/) | | | Hard |
+| 1527 | [Number of Ways to Paint N × 3 Grid](https://leetcode.com/problems/number-of-ways-to-paint-n-x-3-grid/) | | | Hard |
 | 1526 | [HTML Entity Parser](https://leetcode.com/problems/html-entity-parser/) | | | Medium |
 | 1525 | [Queries on a Permutation With Key](https://leetcode.com/problems/queries-on-a-permutation-with-key/) | | | Medium |
 | 1524 | [String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/) | | | Easy |
@@ -1337,4 +1353,4 @@ I have solved **0 / 1330** problems while **213** problems are still locked.
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | | | Hard |
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | | | Medium |
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | | | Medium |
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | | | Easy |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [JavaScript](https://github.com/Chung941211/leetCode/tree/master/Algorithms/Two%20Sum/two-sum.js) | [Explanation](https://github.com/Chung941211/leetCode/tree/master/Algorithms/Two%20Sum/README.md) | Easy |
