@@ -7,21 +7,18 @@ var addTwoNumbers = function(l1, l2) {
   let pre = new ListNode(0);
   let cur = pre;
   let carry = 0;
-  let temp = 0
 
-  while (l1 || l2) {
-   let one = l1 === null ? 0 : l1.val;
-   let two = l2 === null ? 0 : l2.val;
+  while (l1 || l2 || carry) {
+   let one = 0;
+   let two = 0;
 
-   temp = one + two + carry;
-   carry = temp / 10;
-   cur.next = new ListNode(temp % 10);
-   cur = cur.next
+   if(l1) one = l1.val, l1 = l1.next;
+   if(l2) two = l2.val, l2 = l2.next;
 
-   if (l1 !== null) l1 = l1.next
-   if (l2 !== null) l2 = l2.next
-   if (carry > 0) cur.next = new ListNode(carry);
-
+   let sum = one + two + carry;
+   carry = parseInt(sum / 10);
+   pre.next = new ListNode(sum % 10)
+   pre = pre.next
   }
-  return pre.next 
+  return cur.next 
 };

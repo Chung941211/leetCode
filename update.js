@@ -53,7 +53,7 @@ I have solved **${num_solved} / ${num_total}** problems while **${num_locked}** 
 
   return new Promise((resolve, reject) => {
     fs.writeFile('readme.md', tpl, () => {
-      resolve("saved!");
+      resolve("ok!");
     });
   });
 }

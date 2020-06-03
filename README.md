@@ -1,15 +1,15 @@
 # Leetcode
 
-Update time: Thu May 21 2020 18:04:03 GMT+0800 (GMT+08:00)
+Update time: Wed Jun 03 2020 17:48:04 GMT+0800 (GMT+08:00)
 
-I have solved **1 / 1346** problems while **213** problems are still locked.
+I have solved **2 / 1358** problems while **213** problems are still locked.
 
 (Notes: :blue_book: means you need to buy a book from Leetcode)
 
 | # | Title | Source Code | Explanation | Difficulty |
 |:---:|:---:|:---:|:---:|:---:|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [JavaScript](https://github.com/Chung941211/leetCode/tree/master/Algorithms/Two%20Sum/two-sum.js) | [Explanation](https://github.com/Chung941211/leetCode/tree/master/Algorithms/Two%20Sum/README.md) | Easy |
-| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | | | Medium |
+| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [JavaScript](https://github.com/Chung941211/leetCode/tree/master/Algorithms/Add%20Two%20Numbers/add-two-numbers.js) | [Explanation](https://github.com/Chung941211/leetCode/tree/master/Algorithms/Add%20Two%20Numbers/README.md) | Medium |
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | | | Medium |
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | | | Hard |
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | | | Medium |
@@ -1334,10 +1334,22 @@ I have solved **1 / 1346** problems while **213** problems are still locked.
 | 1553 | [Count Triplets That Can Form Two Arrays of Equal XOR](https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/) | | | Medium |
 | 1554 | [Minimum Time to Collect All Apples in a Tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/) | | | Medium |
 | 1555 | [Number of Ways of Cutting a Pizza](https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/) | | | Hard |
+| 1556 | [Make Two Arrays Equal by Reversing Sub-arrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/) | | | Easy |
+| 1557 | [Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/) | | | Medium |
+| 1558 | [Course Schedule IV](https://leetcode.com/problems/course-schedule-iv/) | | | Medium |
+| 1559 | [Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/) | | | Hard |
 | 1560 | [Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/) | | | Easy |
 | 1561 | [Rearrange Words in a Sentence](https://leetcode.com/problems/rearrange-words-in-a-sentence/) | | | Medium |
 | 1562 | [People Whose List of Favorite Companies Is Not a Subset of Another List](https://leetcode.com/problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list/) | | | Medium |
 | 1563 | [Maximum Number of Darts Inside of a Circular Dartboard](https://leetcode.com/problems/maximum-number-of-darts-inside-of-a-circular-dartboard/) | | | Hard |
+| 1566 | [Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | | | Easy |
+| 1567 | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | | | Medium |
+| 1568 | [Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/) | | | Medium |
+| 1569 | [Max Dot Product of Two Subsequences](https://leetcode.com/problems/max-dot-product-of-two-subsequences/) | | | Hard |
+| 1574 | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | | | Easy |
+| 1575 | [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/) | | | Medium |
+| 1576 | [Reorder Routes to Make All Paths Lead to the City Zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | | | Medium |
+| 1577 | [Probability of a Two Boxes Having The Same Number of Distinct Balls](https://leetcode.com/problems/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls/) | | | Hard |
 | 100092 | [Deep Dark Fraction](https://leetcode.com/problems/deep-dark-fraction/) | | | Easy |
 | 100093 | [Broken Board Dominoes](https://leetcode.com/problems/broken-board-dominoes/) | | | Hard |
 | 100094 | [Coin Bonus](https://leetcode.com/problems/coin-bonus/) | | | Hard |
