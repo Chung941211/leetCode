@@ -4,7 +4,7 @@
   "description": "leetcode",
   "dependencies": {
     "cheerio": "latest",
-    "eventproxy": "^0.3.5",
+    "eventproxy": "^1.0.0",
     "superagent": "latest"
   }
 }
